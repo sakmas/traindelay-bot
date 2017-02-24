@@ -1,0 +1,12 @@
+{
+  "trains": [
+    "<Yahoo! Japan traininfo url>",
+    "http://transit.yahoo.co.jp/traininfo/detail/61/0/"
+  ],
+  "slack": {
+    "token": "<your_slack_token>" ,
+    "channel": "<#channel>",
+    "username": "<bot_name>",
+    "icon_emoji": "<bot_icon_emoji>"
+  }
+}
